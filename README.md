@@ -5,7 +5,7 @@ Readme file for final project:
 
 This project hass a bash script that will print numbers 1 through 50 in the terminal.
 
-Files include:
+Files included:
 print_numbers.sh
 README.md
 
